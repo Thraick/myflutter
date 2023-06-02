@@ -1,0 +1,3 @@
+0 smile
+1 sad
+2 none
